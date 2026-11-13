@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">User Directory</string>
+    <string name="app_title">Firebase Name &amp; Department Directory</string>
+    <string name="app_subtitle">Real-time database synchronization with Firebase</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_department">Department</string>
+    <string name="btn_save">Save to Firebase</string>
+    <string name="btn_clear_all">Clear All</string>
+    <string name="records_title">Firebase Records (%1$d)</string>
+    <string name="empty_records">No records stored in Firebase Database yet.</string>
+    <string name="toast_saved">Record saved to Firebase successfully!</string>
+    <string name="toast_deleted">Record deleted from Firebase</string>
+    <string name="toast_all_cleared">All records cleared from Firebase</string>
+    <string name="toast_fill_fields">Please fill in both Name and Department</string>
+    <string name="toast_error">Firebase Error: %1$s</string>
+    <string name="btn_delete_desc">Delete Record</string>
+    <string name="dept_format">Department: %1$s</string>
+</resources>
